@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 
+Link : https://aayushchauhan17.github.io/Tic_tac_toe/
+
+Home Page : 
+![image](https://github.com/aayushchauhan17/Tic_tac_toe/assets/71113988/85b1ee1f-3a7b-470a-9156-1fc878c2e96b)
+
+Winner Page : 
+
+![image](https://github.com/aayushchauhan17/Tic_tac_toe/assets/71113988/22b567d1-4455-45f4-aff2-b9b2e174316a)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
